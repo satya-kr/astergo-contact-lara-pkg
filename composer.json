@@ -1,0 +1,19 @@
+{
+    "name": "astergo/contact",
+    "description": "This is a simple contact page",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Satyajit Kumar",
+            "email": "info@astergo.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Astergo\\Contact\\": "src/"
+        }
+    }
+}
